@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sgraine.github.io/al-folio-test/sitemap.xml
+Sitemap: https://test.scarlettraine.com/sitemap.xml
